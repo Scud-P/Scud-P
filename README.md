@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Scud-P
 - 👀 I’m interested in good food, good games, nature and programming!
-- 🌱 I’m currently learning Java by making applications on Android Studio
-- 💞️ I’m looking to collaborate on any project involving Java, as long as I cna learn something!
+- 🌱 I’m currently learning Java by making applications on Android Studio.
+- 💞️ I’m looking to collaborate on any project involving Java, as long as I can learn something.
 - 📫 You can reach me at escudie.pierre@gmail.com
 
 <!---
