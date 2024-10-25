@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Scud-P
 - 👀 I’m interested in good food, good games, nature and programming!
-- 🌱 I’m currently working on pet projects whhile looking for a Java dev job.
+- 🌱 I’m currently working on pet projects while looking for a Java dev job.
 - 💞️ I’m looking to collaborate on any project involving Java, as long as I can learn something.
 - 📫 You can reach me at escudie.pierre@gmail.com
 
