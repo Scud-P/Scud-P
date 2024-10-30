@@ -11,42 +11,63 @@ Guidé par un mentor, j'ai réalisé neuf projets concrets, les mains dans le co
 
 ## Les projets réalisés au cours de la formation
 
+
+
 ### Projet 1
 *Démarrez votre formation de Développeur d'application Java*
 
-<ins>Objectifs & Réalisations<ins>
+<details>
+<summary>Objectifs & Réalisations</summary>
+
 - Élaboration d’un plan d’apprentissage
 - Mise en place d’un système de veille informationnelle
+</details>
+
 ### Projet 2
 *Débugger une application Java*
 
-<ins>Objectifs & Réalisations<ins>
+<details>
+<summary>Objectifs & Réalisations</summary>
+
 - Apprentissage des concepts de POO (Abstraction, Encapsulation, Abstraction, Héritage et Polymorphisme, Composition, Modularité)
 -	Introduction aux système de gestion des versions (Git) et aux dépôts (Github)
 -	Introduction à la documentation
 -	Introduction au débugging
+</details>
+
+[Lien vers le dépôt Github]()
 ### Projet 3
 *Identifiez les besoins de votre client pour concevoir une application*
 
-<ins>Objectifs & Réalisations<ins>
+<details>
+<summary>Objectifs & Réalisations</summary>
+
 -	Identifification d’un stack technique adapté
 -	Introduction aux diagrammes UML
 -	Introduction au Domain Driven Design (wireframing, prototypage, user stories…)
 -	Introduction à la méthodologie agile et au modèle scrum
+</details>
+
 ### Projet 4
 *Testez l'implémentation d'une nouvelle fonctionnalité Java*
 
-<ins>Objectifs & Réalisations<ins>
+<details>
+<summary>Objectifs & Réalisations</summary>
+
 -	Introduction au TDD
 -	Introduction aux testing
 -	Écriture d’une batterie de tests unitaires et d’intégration (JUnit)
 -	Mocking (Mockito)
 -	Mesure de la couverture du code (JaCoCo)
 -	Exécution des tests (Surefire)
+</details>
+
 ### Projet 5
 *Créez votre première application web avec Spring Boot*
 
-<ins>Objectifs & Réalisations<ins>
+<details>
+<summary>Objectifs & Réalisations</summary>
+
 -	Programmation orientée objet et principes SOLID
 -	Patron de conception MVC
 -	Introduction au développement web avec Spring Boot et Spring Web
@@ -54,10 +75,14 @@ Guidé par un mentor, j'ai réalisé neuf projets concrets, les mains dans le co
 -	Concept de DTO
 -	Introduction au format JSON et ObjectMapper
 -	MockMvc pour tester les controllers
+</details>
+
 ### Projet 6
 *Concevez une application web Java de A à Z*
 
-<ins>Objectifs & Réalisations<ins>
+<details>
+<summary>Objectifs & Réalisations</summary>
+
 Conception
 -	Conception d’un diagramme de classes UML
 -	Conception d’un modèle physique de données
@@ -80,10 +105,15 @@ Bonnes pratiques
 -	Clean code
 -	Javadoc
 -	Respects des objectifs de couverture de code
+
+</details>
+
 ### Projet 7
 *Complétez votre backend pour rendre votre application plus sécurisée*
 
-<ins>Objectifs & Réalisations<ins>
+<details>
+<summary>Objectifs & Réalisations</summary>
+
 Compréhension du domaine métier
 -	Analyser les user stories
 -	Comprendre les spécificités des entités du domaine
@@ -108,11 +138,14 @@ Assurance qualité
 -	Rapport d’exécution des tests et de couverture du code
 -	Clean code
 -	Readme.md
+</details>
 
 ### Projet 8
 *Améliorez votre application avec des systèmes distribués*
 
-<ins>Objectifs & Réalisations<ins>
+<details>
+<summary>Objectifs & Réalisations</summary>
+
 -	Introduction à la concurrence
 -	Prise en main d’une codebase existante
 -	Développement de nouvelles fonctionnalités sur une application existante
@@ -120,11 +153,14 @@ Assurance qualité
 -	Amélioration des performances d’une application (concurrence, multithreading et notamment les CompletableFuture et ExecutorService)
 -	Nettoyage du code, batterie de test
 -	Mettre en place un pipeline d'intégration continue (compilation, test, code quality, build des artefacts)
+</details>
 
 ### Projet 9
 *Développez une solution en microservices pour votre client*
 
-<ins>Objectifs & Réalisations<ins>
+<details>
+<summary>Objectifs & Réalisations</summary>
+
 -	Création d’une application en utilisant une architecture microservices
 -	Mise en place d’une API Gateway pour router le trafic et enforcer la sécurité
 -	Utilisation de webClients pour effectuer des calls interservices
@@ -136,6 +172,4 @@ Assurance qualité
 -	Tests (JUnit, Mockito, MockMvc…)
 -	Agrégation  des rapports de tests et de couverture des différents services  
 -	Rédaction de la Javadoc et du Readme.md
-
-
-
+</details>
