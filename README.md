@@ -15,20 +15,16 @@ En attendant, je développe un logiciel de gestion et d'aide à la prise de déc
 - Lire des documents au format .xlsx et les persister dans une base de données relationnelle (ventes en gros, ventes au détail, fiches produits)
 - Créer une API Rest qui expose des endpoints permettant au frontend d'effectuer des requêtes afin d'afficher des visualisations de données aux utilisateurs
 
-**Backend**
+**Backend** - [Dépot](https://github.com/Scud-P/cgnial/tree/REST)
 
 - Langage de programmation : Java 17
 - Framework : Spring
 - Build & Packaging : Maven
 
-[Dépot](https://github.com/Scud-P/cgnial/tree/REST)
-
-**Frontend**
+**Frontend** - [Dépot](https://github.com/Scud-P/cgnialFront)
 
 - Langages de programmation : HTML/CSS/Javascript
 - Librairies : React/BootStrap/Axios/ChartJS
-
-- [Dépot](https://github.com/Scud-P/cgnialFront)
 
 # Ma formation
 
