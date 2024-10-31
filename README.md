@@ -17,17 +17,14 @@ En attendant, je développe un logiciel de gestion et d'aide à la prise de déc
 
 **Backend**
 
-Langage de programmation : Java 17
-
-Framework : Spring
-
-Build & Packaging : Maven
+- Langage de programmation : Java 17
+- Framework : Spring
+- Build & Packaging : Maven
 
 **Frontend**
 
-Langages de programmation : HTML/CSS/Javascript
-
-Librairies : React/BootStrap/Axios/ChartJS
+- Langages de programmation : HTML/CSS/Javascript
+- Librairies : React/BootStrap/Axios/ChartJS
 
 # Ma formation
 
