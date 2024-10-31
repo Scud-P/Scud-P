@@ -3,6 +3,10 @@
 Après un parcours professionnel pour le moins atypique, j'ai décidé de me reconvertir dans la programmation logicielle.
 J'ai donc suivi une formation certifiante en programmation Java back-end. Un langage mature qui me permet de résoudre des problèmes stimulants.
 
+Je suis actuellement à la recherche d'un poste de développeur dans la grande région de Montréal, ou en remote.
+
+Ën attendant, je développe un logiciel de gestion et d'aide à la prise de décision pour un client dans le secteur de l'agroalimentaire (manufacturier et vente en gros).
+
 # Ma formation
 
 J'ai suivi une formation d'un an à temps plein, dispensée par l'organisme [OpenClassRoooms](https://openclassrooms.com/). Je suis maintenant titulaire d'une [Certification Professionnelle (niveau 6) de Développeur concepteur logiciel reconnue par l'état Français.](https://www.francecompetences.fr/recherche/rncp/38038/)
