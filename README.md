@@ -21,10 +21,14 @@ En attendant, je développe un logiciel de gestion et d'aide à la prise de déc
 - Framework : Spring
 - Build & Packaging : Maven
 
+[Dépot](https://github.com/Scud-P/cgnial/tree/REST)
+
 **Frontend**
 
 - Langages de programmation : HTML/CSS/Javascript
 - Librairies : React/BootStrap/Axios/ChartJS
+
+- [Dépot](https://github.com/Scud-P/cgnialFront)
 
 # Ma formation
 
