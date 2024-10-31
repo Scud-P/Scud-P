@@ -1,7 +1,7 @@
 # À propos de moi
 
 Après un parcours professionnel pour le moins atypique, j'ai décidé de me reconvertir dans la programmation logicielle.
-J'ai donc suivi une formation certifiante en programmation Java back-end. Un langage mature qui me permet de résoudre des problèmes stimulants.
+J'ai donc suivi une formation certifiante en programmation Java backend. Un langage mature qui me permet de résoudre des problèmes stimulants.
 
 Je suis actuellement à la recherche d'un poste de développeur dans la grande région de Montréal, ou en remote.
 
