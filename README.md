@@ -5,7 +5,26 @@ J'ai donc suivi une formation certifiante en programmation Java back-end. Un lan
 
 Je suis actuellement à la recherche d'un poste de développeur dans la grande région de Montréal, ou en remote.
 
-Ën attendant, je développe un logiciel de gestion et d'aide à la prise de décision pour un client dans le secteur de l'agroalimentaire (manufacturier et vente en gros).
+En attendant, je développe un logiciel de gestion et d'aide à la prise de décision pour un client dans le secteur de l'agroalimentaire (manufacturier et vente en gros).
+
+
+# Le projet
+
+**Problématiques à résoudre**
+
+- Lire des documents au format .xlsx et les persister dans une base de données relationnelle (ventes en gros, ventes au détail, fiches produits)
+- Créer une API Rest qui expose des endpoints permettant au frontend d'effectuer des requêtes afin d'afficher des visualisations de données aux utilisateurs
+
+**Backend**
+
+Langage de programmation : Java 17
+Framework : Spring
+Build & Packaging : Maven
+
+**Frontend**
+
+Langages de programmation : HTML/CSS/Javascript
+Librairies : React/BootStrap/Axios/ChartJS
 
 # Ma formation
 
@@ -14,8 +33,6 @@ J'ai suivi une formation d'un an à temps plein, dispensée par l'organisme [Ope
 Guidé par un mentor, j'ai réalisé neuf projets concrets, les mains dans le code, nécessitant l'apprentissage du langage et de tout ce qui gravite autour de lui : des frameworks en vogue aux des librairies utiles, en passant par les bases de données, le testing, le debugging, les pipelines d'intégration continue, la concurrence, la containerisation, j'en passe et des meilleurs. L'immensité des connaissances à aquérir ne m'a pas découragé, et je suis loin d'en maîtriser le tout, mais c'est ce qui me plaît, l'apprentissage en continu de technologies dans un paysage en constante évolution.
 
 ## Les projets réalisés au cours de la formation
-
-
 
 | Projet        | Détails |
 |---------------|---------|
