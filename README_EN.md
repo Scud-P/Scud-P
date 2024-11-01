@@ -1,3 +1,5 @@
+[Version française](https://github.com/Scud-P/README.md) / English version
+
 # About Me
 
 After an unconventional career path, I decided to transition into software programming.  
