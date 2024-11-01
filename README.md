@@ -1,4 +1,4 @@
-Français / [English]([someLink](https://github.com/Scud-P/Scud-P/blob/main/README_EN.md)
+Version française / [English version](https://github.com/Scud-P/Scud-P/blob/main/README_EN.md)
 
 # À propos de moi
 
