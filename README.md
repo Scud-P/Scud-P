@@ -1,3 +1,5 @@
+Français / [English](someLink)
+
 # À propos de moi
 
 Après un parcours professionnel pour le moins atypique, j'ai décidé de me reconvertir dans la programmation logicielle.
