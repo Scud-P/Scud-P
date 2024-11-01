@@ -1,4 +1,4 @@
-[Version française](https://github.com/Scud-P/README.md) / English version
+[Version française](https://github.com/Scud-P/Scud-P/blob/main/README.md) / English version
 
 # About Me
 
